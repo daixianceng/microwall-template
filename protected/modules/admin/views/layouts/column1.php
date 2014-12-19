@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="http://microwall.cn" target="_blank">Y-Express</a>
+          <a class="navbar-brand" href="http://microwall.cn" target="_blank">Microwall</a>
         </div>
 
         <div class="collapse navbar-collapse" id="navbar-collapse">

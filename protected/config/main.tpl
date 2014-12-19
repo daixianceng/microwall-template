@@ -56,12 +56,12 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db' => array(
-			'connectionString' => 'mysql:host=localhost;dbname=express',
+			'connectionString' => 'mysql:host=localhost;dbname=microwall',
 			'emulatePrepare' => true,
 			'username' => 'root',
 			'password' => '',
 			'charset' => 'utf8',
-			'tablePrefix' => 'exp_'
+			'tablePrefix' => 'mw_'
 		),
 		
 		'errorHandler' => array(
